@@ -1,3 +1,4 @@
-# eRecord - Odoo v17
+# eRecord
 
-Developed by *Khubab Shams*
+* Odoo v17
+* Developed by *Khubab Shams*
